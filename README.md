@@ -1,7 +1,7 @@
 
 # 💻 E-Commerce 🛍️ Back End
 
-This is a back end application that uses MySQL2 and Sequelize to create tables for an e-commerce database and perform all [CRUD](https://en.wikipedia.org/wiki/Create,_read,_update_and_delete) operations for each table. The user can add, view, update, and delete categories, products, and tags.
+This is a back end application that uses MySQL2 and Sequelize to create tables for an e-commerce database and an [Express](https://expressjs.com/) API to perform all [CRUD](https://en.wikipedia.org/wiki/Create,_read,_update_and_delete) operations for each table. The user can add, view, update, and delete categories, products, and tags.
 
 ---
 
@@ -19,6 +19,7 @@ This is a back end application that uses MySQL2 and Sequelize to create tables f
 ![MySQL](https://img.shields.io/badge/MySQL-coral?style=for-the-badge&logo=mysql&logoColor=darkblue)&nbsp;
 ![Sequelize](https://img.shields.io/badge/Sequelize-blue?style=for-the-badge&logo=Sequelize)&nbsp;
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
 ![Insomnia](https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white)&nbsp;
 
